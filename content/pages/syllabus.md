@@ -14,7 +14,7 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-As the class is considering deviations from mainstream models of economics, a solid grasp of these models is essential for mastering the material. Therefore, _[14.01 Principles of Microeconomics](/courses/14-01sc-principles-of-microeconomics-fall-2011/)_ or an equivalent introductory microeconomics course is a prerequisite for this class. 
+As the class is considering deviations from mainstream models of economics, a solid grasp of these models is essential for mastering the material. Therefore, _[14.01 Principles of Microeconomics](/courses/14-01sc-principles-of-microeconomics-fall-2011)_ or an equivalent introductory microeconomics course is a prerequisite for this class. 
 
 Reading Materials
 -----------------
